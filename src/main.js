@@ -1,9 +1,9 @@
 import Vue from 'vue'
 // BootstrapVue
-import './plugins/bootstrapVue'
+import './plugins/bootstrap-vue.js'
 
 // Vue Font-Awesome
-import './plugins/fontAwesome'
+import './plugins/font-awesome.js'
 
 import App from './App.vue'
 import router from './router'
